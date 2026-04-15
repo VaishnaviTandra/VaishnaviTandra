@@ -4,8 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000\&size=28\&center=true\&vCenter=true\&width=700\&lines=Full+Stack+Developer;React+%7C+MERN+%7C+AI;Always+Learning+New+Things)
 
-![Profile Views](https://komarev.com/ghpvc/?username=VaishnaviTandra\&color=blue)
-
 🎓 CSE Student | 💻 Full Stack Developer | 🚀 AI Enthusiast
 
 ---
@@ -65,21 +63,7 @@
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td>
-
 <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviTandra&show_icons=true&theme=radical" />
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviTandra&layout=compact&theme=radical&hide=Jupyter%20Notebook&cache_seconds=1" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -89,32 +73,11 @@
 
 ---
 
-## 🚀 Projects
-
-✨ **VoyageR** – Travel platform with booking + VR preview
-✨ **Hand & Hue** – Handcrafted art marketplace
-✨ **Lost & Found App** – Smart verification system
-✨ **AI Finance Platform** – AI-powered insights
-
----
-
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://portfolio-vaishnavis-projects-b2345ddf.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/vaishnavi-tandra-b8b426295/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:tandravaishnavi610@gmail.com)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/VaishnaviTandra/VaishnaviTandra/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🎯 Fun Fact
-
-💡 *"Code is like humor. When you have to explain it, it’s bad."* 😎
 
 ---
 
