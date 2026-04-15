@@ -22,11 +22,29 @@ Here are some ideas to get you started:
 
 ## 🌟 About Me
 
-* 🎓 CSE student passionate about solving problems with code
-* 💻 Exploring **Web Development & Competitive Programming**
-* 🌱 Currently learning **React, MERN Stack & AI**
-* 🤝 Open to collaborating on exciting projects
-* 🚀 Always learning, always building
+<table>
+<tr>
+<td width="55%">
+
+✨ Turning ideas into real-world tech solutions
+🎯 Passionate about **problem-solving & building impactful projects**
+
+* 🧠 Engineering student exploring the intersection of **logic & creativity**
+* 🌐 Diving deep into **Web Development & Competitive Programming**
+* ⚛️ Currently crafting with **React, MERN Stack & AI-powered apps**
+* 🤝 Love collaborating on projects that **solve real problems**
+* 🚀 Believer in **learning by building, not just reading**
+
+💡 *"I don’t just write code — I create experiences."*
+
+</td>
+
+<td width="45%">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -60,7 +78,7 @@ Here are some ideas to get you started:
 
 | 🔥 Stats                                                                                                           | 🌍 Languages                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaishnaviTandra\&show_icons=true\&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviTandra\&layout=compact\&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaishnaviTandra\&show_icons=true\&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviTandra&layout=compact&theme=radical&exclude_repo=telecom_churn,desi-dialogues,Emotion_based_music_Detector,Boot-Time-Logger) |
 
 ---
 
@@ -76,21 +94,8 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/vaishnavi-tandra-b8b426295/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:tandravaishnavi610@gmail.com)
 
----
 
-## 🚀 Projects
 
-✨ **VoyageR** – Travel platform with booking + VR preview
-✨ **Hand & Hue** – Handcrafted art marketplace (React + Node)
-✨ **Lost & Found App** – Smart item tracking with verification
-✨ **AI Finance Platform** – AI-powered financial insights
 
----
-
-## 🎯 Fun Fact
-
-💡 *"Code is like humor. When you have to explain it, it’s bad."* 😎
-
----
 
 ⭐️ From [Vaishnavi Tandra](https://github.com/VaishnaviTandra)
