@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vaishnavi Tandra
 
 <p align="center">
-  <img src="./girl-developer.png" alt="Girl Developer" width="500"/>
+  <img src="./girl-developer.png.png" alt="Girl Developer" width="500"/>
 </p>
 
 <h3 align="center">
