@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vaishnavi Tandra
 
 <p align="center">
-  <img src=https://chatgpt.com/s/m_6a7976469c948191b3b9b07364193bab" width="500"/>
+  <img src="https://chatgpt.com/s/m_6a7976469c948191b3b9b07364193bab" width="500"/>
 </p>
 
 <h3 align="center">
